@@ -12,6 +12,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "node-schedule": "^2.1.1",
     "openai": "^4.78.1",
     "twitter-api-v2": "^1.19.0"
